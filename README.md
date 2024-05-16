@@ -8,3 +8,5 @@ Para multiplicar en emsablador se hace con MUL.
 ## division.asm
 En este archivo se dividen dos números enteros, usando registros de 32 bits. (eax, ebx)
 Para dividir en ensamblador se hace con DIV.
+
+Reyna Guadalupe Miranda Rivas MR21082
